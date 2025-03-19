@@ -20,10 +20,10 @@ employer.
 
 ### My Skills and Interests:
 
-- 💻 &nbsp; I’m currently developing web applications using .NET Core, ASP.NET MVC, and React.js.
+- 💻 &nbsp; I’m developing web applications using .NET Core, ASP.NET MVC, and React.js.
 - 💾 &nbsp; I'm experienced in database design with SQL Server and building RESTful APIs.
 - 🚀 &nbsp; I'm continuously learning and exploring new technologies in web development.
-- 💬 &nbsp; Ask me anything [here](https://github.com/WaelAlfnan/WaelAlfnan/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me anything [here](https://www.linkedin.com/in/waelalfanan/)! I am happy to help.
 -📫 &nbsp; Reach me out: [waelbahaa01@hotmail.com](waelbahaa01@hotmail.com).
 
 ### My Professional Passions:
@@ -32,17 +32,19 @@ employer.
 - 🤝 &nbsp; Contributing to collaborative projects and working with Agile methodologies.
 
 ### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<p>
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/.NET_Entity_Framework_Core_Logo.svg/1200px-.NET_Entity_Framework_Core_Logo.svg.png" alt="Entity Framework Core">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+</p>
 
 ### Projects and Dev Stuffs:
 
